@@ -1,0 +1,14 @@
+{
+	"commands": [
+		{
+			"name": "Customize commands",
+			"path": "/nixpad/.github/edit/master/__commands.json",
+			"type": "Custom"
+		},
+		{
+			"name": "Dashboard",
+			"path": "/",
+			"type": "Custom"
+		}
+  ]
+}
